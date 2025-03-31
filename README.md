@@ -7,9 +7,9 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**, permitindo que usuários agendem espaços disponíveis.
 
-## Diagramas do Sistema
+# Diagramas do Sistema
 
-### Diagrama de Classes UML
+## Diagrama de Classes UML
 ![Diagrama de Classes](link_da_imagem)
 
 ## Fluxo BPMN
