@@ -13,10 +13,10 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 
 ## Diagramas do Sistema
 
-### Diagrama de Classes UML
+## Diagrama de Classes UML
 ![Diagrama de Classes](link_da_imagem)
 
-### Fluxo BPMN
+## Fluxo BPMN
 
 ### FLUXO DE RESERVA DE SALA
 
