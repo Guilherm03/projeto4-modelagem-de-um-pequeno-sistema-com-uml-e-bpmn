@@ -17,4 +17,22 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 ![Diagrama de Classes](link_da_imagem)
 
 ### Fluxo BPMN
-![Diagrama BPMN](link_da_imagem)
+=============================
+  FLUXO DE RESERVA DE SALA
+=============================
+
+[INÍCIO]
+   │
+   ▼
+[Usuário acessa o sistema]
+   │
+   ▼
+[Seleciona sala e horário]
+   │
+   ▼
+[Verifica disponibilidade]
+   │
+   ▼
+{Sala disponível?}
+   ├──► [SIM] → [Reserva confirmada] → [FIM]
+   └──► [NÃO] → [Exibe salas alternativas] → [FIM]
