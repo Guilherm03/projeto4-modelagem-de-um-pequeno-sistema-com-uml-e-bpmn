@@ -19,8 +19,3 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 
 ### 📍 Fluxo BPMN
 ![Diagrama BPMN](link_da_imagem)
-
-## 🚀 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/reserva-de-salas.git
