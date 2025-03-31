@@ -7,10 +7,9 @@
 ## 📖 Descrição do Projeto
 Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**, permitindo que usuários agendem espaços disponíveis.
 
-## 🛠 Tecnologias Utilizadas
+## **Sistemas Utilizados*
 - **UML** para modelagem do sistema.
 - **BPMN** para modelagem do fluxo de reservas.
-- **GitHub** para versionamento do projeto.
 
 ## 📌 Diagramas do Sistema
 
