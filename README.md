@@ -10,11 +10,15 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 # Diagramas do Sistema
 
 ## Diagrama de Classes UML
-![Diagrama de Classes](link_da_imagem)
++--------------+      +--------------+      +--------------+
+|   Usuário    |      |   Reserva    |      |    Sala      |
++--------------+      +--------------+      +--------------+
+| - nome       | 1  ───| - idReserva  |─── 1 | - idSala     |
+| - email      |      | - data        |      | - número     |
+| - telefone   |      | - horário     |      | - capacidade |
++--------------+      +--------------+      +--------------+
 
 ## Fluxo BPMN
-
-### FLUXO DE RESERVA DE SALA
 
 [INÍCIO] ---> [Usuário acessa o sistema] ---> [Seleciona sala e horário] ---> [Verifica disponibilidade] ---> <br>
 {Sala disponível?} <br>
