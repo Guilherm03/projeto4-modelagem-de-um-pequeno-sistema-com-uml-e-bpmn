@@ -18,7 +18,7 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 
 ### Fluxo BPMN
 
-###FLUXO DE RESERVA DE SALA
+### FLUXO DE RESERVA DE SALA
 
 [INÍCIO]
    │
