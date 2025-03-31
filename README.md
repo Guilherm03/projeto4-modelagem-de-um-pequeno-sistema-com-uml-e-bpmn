@@ -11,13 +11,13 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 
 ## Diagrama de Classes UML
 
-      +---------------+      +----------------+      +--------------+
-      |    Usuário    |      |   Reserva     |       |    Sala      |
-      +---------------+      +---------------+       +--------------+
-      |  - nome       | 1 ───| - idReserva   |──── 1 | - idSala     |
-      |  - email      |      | - data        |       | - número     |
-      |  - telefone   |      | - horário     |       | - capacidade |
-      +---------------+      +---------------+       +--------------+
+      +---------------+      +---------------+      +--------------+
+      |    Usuário    |      |   Reserva     |      |    Sala      |
+      +---------------+      +---------------+      +--------------+
+      |  - nome       | 1 ───| - idReserva   |─── 1 | - idSala     |
+      |  - email      |      | - data        |      | - número     |
+      |  - telefone   |      | - horário     |      | - capacidade |
+      +---------------+      +---------------+      +--------------+
 
 ## Explicação do Modelo:
 - Usuário e Reserva: Um usuário pode fazer várias reservas, mas cada reserva é realizada por um único usuário.
