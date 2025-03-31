@@ -20,18 +20,18 @@ Este projeto tem como objetivo desenvolver um sistema para **reserva de salas**,
 
 ### FLUXO DE RESERVA DE SALA
 
-### [INÍCIO] <br>
+[INÍCIO] <br>
    │ <br>
    ▼ <br>
-### [Usuário acessa o sistema] <br>
+[Usuário acessa o sistema] <br>
    │ <br>
    ▼ <br>
-### [Seleciona sala e horário] <br>
+[Seleciona sala e horário] <br>
    │ <br>
    ▼ <br>
-### [Verifica disponibilidade] <br>
+[Verifica disponibilidade] <br>
    │ <br>
    ▼ <br>
-### {Sala disponível?} <br>
+{Sala disponível?} <br>
    ├──► [SIM] →    [Reserva confirmada] → [FIM] <br>
    └──► [NÃO] →   [Exibe salas alternativas] → [FIM] <br>
